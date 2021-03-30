@@ -63,7 +63,7 @@ prompt-toolkit==3.0.4
 py7zr==0.6
 pycryptodome==3.9.7
 pycuda==2019.1.2
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.4.6
 PyPDF2==1.26.0
 PyQt5==5.12.3
