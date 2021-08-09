@@ -75,7 +75,7 @@ python-pptx==0.6.18
 python-varname==0.1.2
 pytools==2020.1
 pytz==2019.3
-pywin32==227
+pywin32==301
 pywinpty==0.5.7
 pyzmq==18.1.1
 requests==2.23.0
