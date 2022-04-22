@@ -65,7 +65,7 @@ pycryptodome==3.9.7
 pycuda==2019.1.2
 Pygments==2.6.1
 pyparsing==2.4.6
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyQt5==5.12.3
 PyQt5-sip==4.19.18
 PyQtWebEngine==5.12.1
